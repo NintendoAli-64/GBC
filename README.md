@@ -1,4 +1,5 @@
 # GBC
+[Assignment 01 Repository](https://github.com/nintendoali-64/GBC/)
 ## Links
 - [D2L](https://learn.georgebrown.ca)
 - [AtKlass](https://app.atklass.com)
