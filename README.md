@@ -7,17 +7,17 @@
 ## Schedule:
 - **Monday**
   - 12:00pm - [COMP-1151](https://learn.georgebrown.ca/d2l/home/515478)
-  - 2:00pm - [COMP-1236](https://learn.georgebrown.ca/d2l/home/514711)
-  - 4:00pm - [COMP-1238](https://learn.georgebrown.ca/d2l/home/513886)
+  -  2:00pm - [COMP-1236](https://learn.georgebrown.ca/d2l/home/514711)
+  -  4:00pm - [COMP-1238](https://learn.georgebrown.ca/d2l/home/513886)
 - **Tuesday**
-  - 8:00am - [MATH-1180](https://learn.georgebrown.ca/d2l/home/508275)
+  -  8:00am - [MATH-1180](https://learn.georgebrown.ca/d2l/home/508275)
   - 12:00pm - [COMP-1234](https://learn.georgebrown.ca/d2l/home/516630)
-  - 5:00pm - [COMP-1238](https://learn.georgebrown.ca/d2l/home/513886)
-  - 6:00pm - [COMP-1234](https://learn.georgebrown.ca/d2l/home/516630)
+  -  5:00pm - [COMP-1238](https://learn.georgebrown.ca/d2l/home/513886)
+  -  6:00pm - [COMP-1234](https://learn.georgebrown.ca/d2l/home/516630)
 - **Wednesday**
-  - 2:00pm - [COMP-1236](https://learn.georgebrown.ca/d2l/home/514711)
+  -  2:00pm - [COMP-1236](https://learn.georgebrown.ca/d2l/home/514711)
 - **Thursday**
-  - 8:00am - [MATH-1180](https://learn.georgebrown.ca/d2l/home/508275)
+  -  8:00am - [MATH-1180](https://learn.georgebrown.ca/d2l/home/508275)
 - **Friday**
   - 11:00am - [COMP-1151](https://learn.georgebrown.ca/d2l/home/515478)
-  - 1:00pm - [COMM-1000](https://learn.georgebrown.ca/d2l/home/507505)
+  -  1:00pm - [COMM-1000](https://learn.georgebrown.ca/d2l/home/507505)
